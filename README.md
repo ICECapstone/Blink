@@ -4,7 +4,7 @@ My first NodeMCU code - Blink ;-)
 On your Arduino IDE, 
 Go to File -> ESP8266 -> Blink
 
-<img src="https://user-images.githubusercontent.com/11530521/50457503-8dc4c600-098e-11e9-9d1e-4c5276908c67.png" width="100")
+![blink](https://user-images.githubusercontent.com/11530521/50457503-8dc4c600-098e-11e9-9d1e-4c5276908c67.png)
 
 Remember to set up your NodeMCU
 
