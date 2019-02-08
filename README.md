@@ -1,4 +1,4 @@
-# Lecture1a_Blink
+# Blink 
 My first NodeMCU code - Blink ;-)
 
 On your Arduino IDE, 
